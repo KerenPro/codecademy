@@ -34,3 +34,23 @@ Repository for the various CodeCademy Web Development Career Path projects
 
 ### Code Challenges - Javascript Fundamentals
 * toEmoticon()
+
+## Getting More Advanced with Design
+### Display and Positioning
+* Broadway
+
+### Layout with Flexbox
+* Flexbox: To-Do App
+
+### Colors
+* Paint Store
+
+### The Box Model
+* The Box Model: Davie's Burgers
+
+### Learn Responsive Design
+* Tsunami Coffee
+
+### Typography
+* Typography
+
