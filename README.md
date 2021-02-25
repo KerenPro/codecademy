@@ -54,3 +54,19 @@ Repository for the various CodeCademy Web Development Career Path projects
 ### Typography
 * Typography
 
+## JavaScript: Arrays, Loops, and Objects
+### Objects
+* Meal Maker
+* Team Stats
+
+### Iterators
+* Mini Linter
+
+### Arrays
+* Secret Message
+
+### Scope
+* Training Days
+
+### Loops
+* Whale Talk
