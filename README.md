@@ -6,3 +6,7 @@ Repository for the various CodeCademy Web Development Career Path projects
 * Form a Story
 * New York City Blog
 * Wine Festival Schedule
+
+### Styling a Website projects
+* Healthy Recipes
+* Olivia Woodruff Portfolio
