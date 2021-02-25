@@ -1,7 +1,7 @@
 # codecademy
 Repository for the various CodeCademy Web Development Career Path projects
 
-### Learn HTML project
+### Learn HTML projects
 * Fashion Blog
 * Form a Story
 * New York City Blog
