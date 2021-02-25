@@ -70,3 +70,13 @@ Repository for the various CodeCademy Web Development Career Path projects
 
 ### Loops
 * Whale Talk
+
+## Building Interactive JavaScript Websites
+### Javascript Interactive Websites
+* Chore Door
+
+### Templating With Handlebars
+* Musicon
+
+### DOM Events with Javascript
+* Piano Keys
